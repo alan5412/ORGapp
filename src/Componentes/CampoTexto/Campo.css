@@ -1,0 +1,30 @@
+.campo{
+    margin: 24px 0;
+    font-family: 'Montserrat', serif;
+   
+}
+
+.campo label{
+    font-family: 'Montserrat', serif;
+    font-size: 18px;
+    font-weight: 600;
+    display: block;
+    margin-bottom: 8px;
+}
+
+.campo input{
+    width: 100%;
+    background-color: white;
+    box-shadow: 10px 10px 30px rgba(0, 0, 0,0.08) ;
+    border: none;
+    outline-color: rgba(98, 120, 247, 1) ;
+    padding: 30px 20px;
+    font-size: 16px;
+    box-sizing: border-box;
+
+}
+
+.campo-color input{ 
+    height: 40px;
+    padding: 5px 20px ;
+}
